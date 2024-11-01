@@ -1,0 +1,1290 @@
+Find 1:
+Pattern_1 (GATG) found at index 122976
+Pattern_2 (TGATAA) found at index 122984
+Number of nucleotides between the patterns: 4
+
+Find 2:
+Pattern_1 (GATG) found at index 1056172
+Pattern_2 (AGATAA) found at index 1056180
+Number of nucleotides between the patterns: 4
+
+Find 3:
+Pattern_1 (GATG) found at index 1821769
+Pattern_2 (AGATAA) found at index 1821777
+Number of nucleotides between the patterns: 4
+
+Find 4:
+Pattern_1 (GATG) found at index 3354022
+Pattern_2 (AGATAA) found at index 3354030
+Number of nucleotides between the patterns: 4
+
+Find 5:
+Pattern_1 (GATG) found at index 3502049
+Pattern_2 (TGATAG) found at index 3502057
+Number of nucleotides between the patterns: 4
+
+Find 6:
+Pattern_1 (GATG) found at index 3504992
+Pattern_2 (TGATAG) found at index 3505000
+Number of nucleotides between the patterns: 4
+
+Find 7:
+Pattern_1 (GATG) found at index 3507935
+Pattern_2 (TGATAG) found at index 3507943
+Number of nucleotides between the patterns: 4
+
+Find 8:
+Pattern_1 (GATG) found at index 3510281
+Pattern_2 (TGATAG) found at index 3510289
+Number of nucleotides between the patterns: 4
+
+Find 9:
+Pattern_1 (GATG) found at index 3987800
+Pattern_2 (TGATAG) found at index 3987808
+Number of nucleotides between the patterns: 4
+
+Find 10:
+Pattern_1 (GATG) found at index 4162056
+Pattern_2 (TGATAA) found at index 4162064
+Number of nucleotides between the patterns: 4
+
+Find 11:
+Pattern_1 (GATG) found at index 4208467
+Pattern_2 (TGATAA) found at index 4208475
+Number of nucleotides between the patterns: 4
+
+Find 12:
+Pattern_1 (GATG) found at index 4327711
+Pattern_2 (AGATAA) found at index 4327719
+Number of nucleotides between the patterns: 4
+
+Find 13:
+Pattern_1 (GATG) found at index 6960467
+Pattern_2 (AGATAA) found at index 6960475
+Number of nucleotides between the patterns: 4
+
+Find 14:
+Pattern_1 (GATG) found at index 6999448
+Pattern_2 (TGATAA) found at index 6999456
+Number of nucleotides between the patterns: 4
+
+Find 15:
+Pattern_1 (GATG) found at index 7844029
+Pattern_2 (AGATAA) found at index 7844037
+Number of nucleotides between the patterns: 4
+
+Find 16:
+Pattern_1 (GATG) found at index 7844539
+Pattern_2 (AGATAA) found at index 7844547
+Number of nucleotides between the patterns: 4
+
+Find 17:
+Pattern_1 (GATG) found at index 7852321
+Pattern_2 (AGATAA) found at index 7852329
+Number of nucleotides between the patterns: 4
+
+Find 18:
+Pattern_1 (GATG) found at index 7852831
+Pattern_2 (AGATAA) found at index 7852839
+Number of nucleotides between the patterns: 4
+
+Find 19:
+Pattern_1 (GATG) found at index 7860946
+Pattern_2 (AGATAA) found at index 7860954
+Number of nucleotides between the patterns: 4
+
+Find 20:
+Pattern_1 (GATG) found at index 7861456
+Pattern_2 (AGATAA) found at index 7861464
+Number of nucleotides between the patterns: 4
+
+Find 21:
+Pattern_1 (GATG) found at index 7869589
+Pattern_2 (AGATAA) found at index 7869597
+Number of nucleotides between the patterns: 4
+
+Find 22:
+Pattern_1 (GATG) found at index 7870099
+Pattern_2 (AGATAA) found at index 7870107
+Number of nucleotides between the patterns: 4
+
+Find 23:
+Pattern_1 (GATG) found at index 7877710
+Pattern_2 (AGATAA) found at index 7877718
+Number of nucleotides between the patterns: 4
+
+Find 24:
+Pattern_1 (GATG) found at index 7878220
+Pattern_2 (AGATAA) found at index 7878228
+Number of nucleotides between the patterns: 4
+
+Find 25:
+Pattern_1 (GATG) found at index 7920370
+Pattern_2 (TGATAA) found at index 7920378
+Number of nucleotides between the patterns: 4
+
+Find 26:
+Pattern_1 (GATG) found at index 7925425
+Pattern_2 (TGATAA) found at index 7925433
+Number of nucleotides between the patterns: 4
+
+Find 27:
+Pattern_1 (GATG) found at index 7929700
+Pattern_2 (TGATAA) found at index 7929708
+Number of nucleotides between the patterns: 4
+
+Find 28:
+Pattern_1 (GATG) found at index 8167987
+Pattern_2 (AGATAA) found at index 8167995
+Number of nucleotides between the patterns: 4
+
+Find 29:
+Pattern_1 (GATG) found at index 8971719
+Pattern_2 (TGATAA) found at index 8971727
+Number of nucleotides between the patterns: 4
+
+Find 30:
+Pattern_1 (GATG) found at index 8971906
+Pattern_2 (TGATAA) found at index 8971914
+Number of nucleotides between the patterns: 4
+
+Find 31:
+Pattern_1 (GATG) found at index 8972182
+Pattern_2 (TGATAA) found at index 8972190
+Number of nucleotides between the patterns: 4
+
+Find 32:
+Pattern_1 (GATG) found at index 8996244
+Pattern_2 (TGATAA) found at index 8996252
+Number of nucleotides between the patterns: 4
+
+Find 33:
+Pattern_1 (GATG) found at index 8997675
+Pattern_2 (TGATAA) found at index 8997683
+Number of nucleotides between the patterns: 4
+
+Find 34:
+Pattern_1 (GATG) found at index 10335245
+Pattern_2 (TGATAA) found at index 10335253
+Number of nucleotides between the patterns: 4
+
+Find 35:
+Pattern_1 (GATG) found at index 10813202
+Pattern_2 (TGATAG) found at index 10813210
+Number of nucleotides between the patterns: 4
+
+Find 36:
+Pattern_1 (GATG) found at index 10814987
+Pattern_2 (TGATAG) found at index 10814995
+Number of nucleotides between the patterns: 4
+
+Find 37:
+Pattern_1 (GATG) found at index 11112498
+Pattern_2 (TGATAA) found at index 11112506
+Number of nucleotides between the patterns: 4
+
+Find 38:
+Pattern_1 (GATG) found at index 11160746
+Pattern_2 (TGATAA) found at index 11160754
+Number of nucleotides between the patterns: 4
+
+Find 39:
+Pattern_1 (GATG) found at index 11928412
+Pattern_2 (AGATAA) found at index 11928420
+Number of nucleotides between the patterns: 4
+
+Find 40:
+Pattern_1 (GATG) found at index 11932748
+Pattern_2 (AGATAA) found at index 11932756
+Number of nucleotides between the patterns: 4
+
+Find 41:
+Pattern_1 (GATG) found at index 11941433
+Pattern_2 (AGATAA) found at index 11941441
+Number of nucleotides between the patterns: 4
+
+Find 42:
+Pattern_1 (GATG) found at index 12234513
+Pattern_2 (TGATAA) found at index 12234521
+Number of nucleotides between the patterns: 4
+
+Find 43:
+Pattern_1 (GATG) found at index 12275457
+Pattern_2 (AGATAG) found at index 12275465
+Number of nucleotides between the patterns: 4
+
+Find 44:
+Pattern_1 (GATG) found at index 12373409
+Pattern_2 (AGATAG) found at index 12373417
+Number of nucleotides between the patterns: 4
+
+Find 45:
+Pattern_1 (GATG) found at index 12374864
+Pattern_2 (AGATAG) found at index 12374872
+Number of nucleotides between the patterns: 4
+
+Find 46:
+Pattern_1 (GATG) found at index 12376319
+Pattern_2 (AGATAG) found at index 12376327
+Number of nucleotides between the patterns: 4
+
+Find 47:
+Pattern_1 (GATG) found at index 12641029
+Pattern_2 (AGATAA) found at index 12641037
+Number of nucleotides between the patterns: 4
+
+Find 48:
+Pattern_1 (GATG) found at index 12643009
+Pattern_2 (AGATAA) found at index 12643017
+Number of nucleotides between the patterns: 4
+
+Find 49:
+Pattern_1 (GATG) found at index 12690098
+Pattern_2 (TGATAG) found at index 12690106
+Number of nucleotides between the patterns: 4
+
+Find 50:
+Pattern_1 (GATG) found at index 12693014
+Pattern_2 (TGATAG) found at index 12693022
+Number of nucleotides between the patterns: 4
+
+Find 51:
+Pattern_1 (GATG) found at index 14748110
+Pattern_2 (AGATAG) found at index 14748118
+Number of nucleotides between the patterns: 4
+
+Find 52:
+Pattern_1 (GATG) found at index 15150772
+Pattern_2 (AGATAA) found at index 15150780
+Number of nucleotides between the patterns: 4
+
+Find 53:
+Pattern_1 (GATG) found at index 15152416
+Pattern_2 (AGATAA) found at index 15152424
+Number of nucleotides between the patterns: 4
+
+Find 54:
+Pattern_1 (GATG) found at index 15153652
+Pattern_2 (AGATAA) found at index 15153660
+Number of nucleotides between the patterns: 4
+
+Find 55:
+Pattern_1 (GATG) found at index 15154894
+Pattern_2 (AGATAA) found at index 15154902
+Number of nucleotides between the patterns: 4
+
+Find 56:
+Pattern_1 (GATG) found at index 15155932
+Pattern_2 (AGATAA) found at index 15155940
+Number of nucleotides between the patterns: 4
+
+Find 57:
+Pattern_1 (GATG) found at index 15208220
+Pattern_2 (TGATAA) found at index 15208228
+Number of nucleotides between the patterns: 4
+
+Find 58:
+Pattern_1 (GATG) found at index 15312519
+Pattern_2 (TGATAA) found at index 15312527
+Number of nucleotides between the patterns: 4
+
+Find 59:
+Pattern_1 (GATG) found at index 16120568
+Pattern_2 (AGATAA) found at index 16120576
+Number of nucleotides between the patterns: 4
+
+Find 60:
+Pattern_1 (GATG) found at index 17411999
+Pattern_2 (TGATAA) found at index 17412007
+Number of nucleotides between the patterns: 4
+
+Find 61:
+Pattern_1 (GATG) found at index 17413037
+Pattern_2 (TGATAA) found at index 17413045
+Number of nucleotides between the patterns: 4
+
+Find 62:
+Pattern_1 (GATG) found at index 17414225
+Pattern_2 (TGATAA) found at index 17414233
+Number of nucleotides between the patterns: 4
+
+Find 63:
+Pattern_1 (GATG) found at index 17415344
+Pattern_2 (TGATAA) found at index 17415352
+Number of nucleotides between the patterns: 4
+
+Find 64:
+Pattern_1 (GATG) found at index 17416385
+Pattern_2 (TGATAA) found at index 17416393
+Number of nucleotides between the patterns: 4
+
+Find 65:
+Pattern_1 (GATG) found at index 17417402
+Pattern_2 (TGATAA) found at index 17417410
+Number of nucleotides between the patterns: 4
+
+Find 66:
+Pattern_1 (GATG) found at index 17418443
+Pattern_2 (TGATAA) found at index 17418451
+Number of nucleotides between the patterns: 4
+
+Find 67:
+Pattern_1 (GATG) found at index 17419478
+Pattern_2 (TGATAA) found at index 17419486
+Number of nucleotides between the patterns: 4
+
+Find 68:
+Pattern_1 (GATG) found at index 17420501
+Pattern_2 (TGATAA) found at index 17420509
+Number of nucleotides between the patterns: 4
+
+Find 69:
+Pattern_1 (GATG) found at index 17421542
+Pattern_2 (TGATAA) found at index 17421550
+Number of nucleotides between the patterns: 4
+
+Find 70:
+Pattern_1 (GATG) found at index 17422565
+Pattern_2 (TGATAA) found at index 17422573
+Number of nucleotides between the patterns: 4
+
+Find 71:
+Pattern_1 (GATG) found at index 17423606
+Pattern_2 (TGATAA) found at index 17423614
+Number of nucleotides between the patterns: 4
+
+Find 72:
+Pattern_1 (GATG) found at index 17424638
+Pattern_2 (TGATAA) found at index 17424646
+Number of nucleotides between the patterns: 4
+
+Find 73:
+Pattern_1 (GATG) found at index 17425670
+Pattern_2 (TGATAA) found at index 17425678
+Number of nucleotides between the patterns: 4
+
+Find 74:
+Pattern_1 (GATG) found at index 17426627
+Pattern_2 (TGATAA) found at index 17426635
+Number of nucleotides between the patterns: 4
+
+Find 75:
+Pattern_1 (GATG) found at index 17427677
+Pattern_2 (TGATAA) found at index 17427685
+Number of nucleotides between the patterns: 4
+
+Find 76:
+Pattern_1 (GATG) found at index 17428724
+Pattern_2 (TGATAA) found at index 17428732
+Number of nucleotides between the patterns: 4
+
+Find 77:
+Pattern_1 (GATG) found at index 17429807
+Pattern_2 (TGATAA) found at index 17429815
+Number of nucleotides between the patterns: 4
+
+Find 78:
+Pattern_1 (GATG) found at index 17430839
+Pattern_2 (TGATAA) found at index 17430847
+Number of nucleotides between the patterns: 4
+
+Find 79:
+Pattern_1 (GATG) found at index 17431865
+Pattern_2 (TGATAA) found at index 17431873
+Number of nucleotides between the patterns: 4
+
+Find 80:
+Pattern_1 (GATG) found at index 17432885
+Pattern_2 (TGATAA) found at index 17432893
+Number of nucleotides between the patterns: 4
+
+Find 81:
+Pattern_1 (GATG) found at index 17433899
+Pattern_2 (TGATAA) found at index 17433907
+Number of nucleotides between the patterns: 4
+
+Find 82:
+Pattern_1 (GATG) found at index 17434913
+Pattern_2 (TGATAA) found at index 17434921
+Number of nucleotides between the patterns: 4
+
+Find 83:
+Pattern_1 (GATG) found at index 17435930
+Pattern_2 (TGATAA) found at index 17435938
+Number of nucleotides between the patterns: 4
+
+Find 84:
+Pattern_1 (GATG) found at index 17436977
+Pattern_2 (TGATAA) found at index 17436985
+Number of nucleotides between the patterns: 4
+
+Find 85:
+Pattern_1 (GATG) found at index 17438000
+Pattern_2 (TGATAA) found at index 17438008
+Number of nucleotides between the patterns: 4
+
+Find 86:
+Pattern_1 (GATG) found at index 17439026
+Pattern_2 (TGATAA) found at index 17439034
+Number of nucleotides between the patterns: 4
+
+Find 87:
+Pattern_1 (GATG) found at index 17440058
+Pattern_2 (TGATAA) found at index 17440066
+Number of nucleotides between the patterns: 4
+
+Find 88:
+Pattern_1 (GATG) found at index 17441150
+Pattern_2 (TGATAA) found at index 17441158
+Number of nucleotides between the patterns: 4
+
+Find 89:
+Pattern_1 (GATG) found at index 17442212
+Pattern_2 (TGATAA) found at index 17442220
+Number of nucleotides between the patterns: 4
+
+Find 90:
+Pattern_1 (GATG) found at index 17443235
+Pattern_2 (TGATAA) found at index 17443243
+Number of nucleotides between the patterns: 4
+
+Find 91:
+Pattern_1 (GATG) found at index 17444309
+Pattern_2 (TGATAA) found at index 17444317
+Number of nucleotides between the patterns: 4
+
+Find 92:
+Pattern_1 (GATG) found at index 17445335
+Pattern_2 (TGATAA) found at index 17445343
+Number of nucleotides between the patterns: 4
+
+Find 93:
+Pattern_1 (GATG) found at index 17446370
+Pattern_2 (TGATAA) found at index 17446378
+Number of nucleotides between the patterns: 4
+
+Find 94:
+Pattern_1 (GATG) found at index 17447438
+Pattern_2 (TGATAA) found at index 17447446
+Number of nucleotides between the patterns: 4
+
+Find 95:
+Pattern_1 (GATG) found at index 17448509
+Pattern_2 (TGATAA) found at index 17448517
+Number of nucleotides between the patterns: 4
+
+Find 96:
+Pattern_1 (GATG) found at index 17449535
+Pattern_2 (TGATAA) found at index 17449543
+Number of nucleotides between the patterns: 4
+
+Find 97:
+Pattern_1 (GATG) found at index 17450567
+Pattern_2 (TGATAA) found at index 17450575
+Number of nucleotides between the patterns: 4
+
+Find 98:
+Pattern_1 (GATG) found at index 17451608
+Pattern_2 (TGATAA) found at index 17451616
+Number of nucleotides between the patterns: 4
+
+Find 99:
+Pattern_1 (GATG) found at index 17452646
+Pattern_2 (TGATAA) found at index 17452654
+Number of nucleotides between the patterns: 4
+
+Find 100:
+Pattern_1 (GATG) found at index 17453666
+Pattern_2 (TGATAA) found at index 17453674
+Number of nucleotides between the patterns: 4
+
+Find 101:
+Pattern_1 (GATG) found at index 17454689
+Pattern_2 (TGATAA) found at index 17454697
+Number of nucleotides between the patterns: 4
+
+Find 102:
+Pattern_1 (GATG) found at index 17455721
+Pattern_2 (TGATAA) found at index 17455729
+Number of nucleotides between the patterns: 4
+
+Find 103:
+Pattern_1 (GATG) found at index 17456756
+Pattern_2 (TGATAA) found at index 17456764
+Number of nucleotides between the patterns: 4
+
+Find 104:
+Pattern_1 (GATG) found at index 17457797
+Pattern_2 (TGATAA) found at index 17457805
+Number of nucleotides between the patterns: 4
+
+Find 105:
+Pattern_1 (GATG) found at index 17458823
+Pattern_2 (TGATAA) found at index 17458831
+Number of nucleotides between the patterns: 4
+
+Find 106:
+Pattern_1 (GATG) found at index 17459828
+Pattern_2 (TGATAA) found at index 17459836
+Number of nucleotides between the patterns: 4
+
+Find 107:
+Pattern_1 (GATG) found at index 17962085
+Pattern_2 (AGATAA) found at index 17962093
+Number of nucleotides between the patterns: 4
+
+Find 108:
+Pattern_1 (GATG) found at index 18373361
+Pattern_2 (AGATAG) found at index 18373369
+Number of nucleotides between the patterns: 4
+
+Find 109:
+Pattern_1 (GATG) found at index 18398749
+Pattern_2 (TGATAG) found at index 18398757
+Number of nucleotides between the patterns: 4
+
+Find 110:
+Pattern_1 (GATG) found at index 19627799
+Pattern_2 (TGATAG) found at index 19627807
+Number of nucleotides between the patterns: 4
+
+Find 111:
+Pattern_1 (GATG) found at index 19631018
+Pattern_2 (TGATAG) found at index 19631026
+Number of nucleotides between the patterns: 4
+
+Find 112:
+Pattern_1 (GATG) found at index 19634237
+Pattern_2 (TGATAG) found at index 19634245
+Number of nucleotides between the patterns: 4
+
+Find 113:
+Pattern_1 (GATG) found at index 20251907
+Pattern_2 (AGATAA) found at index 20251915
+Number of nucleotides between the patterns: 4
+
+Find 114:
+Pattern_1 (GATG) found at index 21114797
+Pattern_2 (TGATAG) found at index 21114805
+Number of nucleotides between the patterns: 4
+
+Find 115:
+Pattern_1 (GATG) found at index 21262948
+Pattern_2 (AGATAA) found at index 21262956
+Number of nucleotides between the patterns: 4
+
+Find 116:
+Pattern_1 (GATG) found at index 21442420
+Pattern_2 (AGATAA) found at index 21442428
+Number of nucleotides between the patterns: 4
+
+Find 117:
+Pattern_1 (GATG) found at index 21627823
+Pattern_2 (TGATAG) found at index 21627831
+Number of nucleotides between the patterns: 4
+
+Find 118:
+Pattern_1 (GATG) found at index 22149364
+Pattern_2 (AGATAA) found at index 22149372
+Number of nucleotides between the patterns: 4
+
+Find 119:
+Pattern_1 (GATG) found at index 23305046
+Pattern_2 (TGATAA) found at index 23305054
+Number of nucleotides between the patterns: 4
+
+Find 120:
+Pattern_1 (GATG) found at index 23306397
+Pattern_2 (TGATAA) found at index 23306405
+Number of nucleotides between the patterns: 4
+
+Find 121:
+Pattern_1 (GATG) found at index 23647765
+Pattern_2 (AGATAA) found at index 23647773
+Number of nucleotides between the patterns: 4
+
+Find 122:
+Pattern_1 (GATG) found at index 23659297
+Pattern_2 (AGATAA) found at index 23659305
+Number of nucleotides between the patterns: 4
+
+Find 123:
+Pattern_1 (GATG) found at index 23669638
+Pattern_2 (AGATAA) found at index 23669646
+Number of nucleotides between the patterns: 4
+
+Find 124:
+Pattern_1 (GATG) found at index 24043867
+Pattern_2 (AGATAA) found at index 24043875
+Number of nucleotides between the patterns: 4
+
+Find 125:
+Pattern_1 (GATG) found at index 24186441
+Pattern_2 (AGATAA) found at index 24186449
+Number of nucleotides between the patterns: 4
+
+Find 126:
+Pattern_1 (GATG) found at index 24774357
+Pattern_2 (AGATAG) found at index 24774365
+Number of nucleotides between the patterns: 4
+
+Find 127:
+Pattern_1 (GATG) found at index 24980587
+Pattern_2 (AGATAA) found at index 24980595
+Number of nucleotides between the patterns: 4
+
+Find 128:
+Pattern_1 (GATG) found at index 25696001
+Pattern_2 (TGATAG) found at index 25696009
+Number of nucleotides between the patterns: 4
+
+Find 129:
+Pattern_1 (GATG) found at index 25697870
+Pattern_2 (TGATAG) found at index 25697878
+Number of nucleotides between the patterns: 4
+
+Find 130:
+Pattern_1 (GATG) found at index 25699589
+Pattern_2 (TGATAG) found at index 25699597
+Number of nucleotides between the patterns: 4
+
+Find 131:
+Pattern_1 (GATG) found at index 25701212
+Pattern_2 (TGATAG) found at index 25701220
+Number of nucleotides between the patterns: 4
+
+Find 132:
+Pattern_1 (GATG) found at index 25702808
+Pattern_2 (TGATAG) found at index 25702816
+Number of nucleotides between the patterns: 4
+
+Find 133:
+Pattern_1 (GATG) found at index 25704368
+Pattern_2 (TGATAG) found at index 25704376
+Number of nucleotides between the patterns: 4
+
+Find 134:
+Pattern_1 (GATG) found at index 26595428
+Pattern_2 (AGATAA) found at index 26595436
+Number of nucleotides between the patterns: 4
+
+Find 135:
+Pattern_1 (GATG) found at index 26596790
+Pattern_2 (AGATAA) found at index 26596798
+Number of nucleotides between the patterns: 4
+
+Find 136:
+Pattern_1 (GATG) found at index 27064066
+Pattern_2 (AGATAA) found at index 27064074
+Number of nucleotides between the patterns: 4
+
+Find 137:
+Pattern_1 (GATG) found at index 27178741
+Pattern_2 (TGATAA) found at index 27178749
+Number of nucleotides between the patterns: 4
+
+Find 138:
+Pattern_1 (GATG) found at index 27475566
+Pattern_2 (TGATAG) found at index 27475574
+Number of nucleotides between the patterns: 4
+
+Find 139:
+Pattern_1 (GATG) found at index 27503623
+Pattern_2 (TGATAG) found at index 27503631
+Number of nucleotides between the patterns: 4
+
+Find 140:
+Pattern_1 (GATG) found at index 27508792
+Pattern_2 (TGATAG) found at index 27508800
+Number of nucleotides between the patterns: 4
+
+Find 141:
+Pattern_1 (GATG) found at index 27513829
+Pattern_2 (TGATAG) found at index 27513837
+Number of nucleotides between the patterns: 4
+
+Find 142:
+Pattern_1 (GATG) found at index 27518956
+Pattern_2 (TGATAG) found at index 27518964
+Number of nucleotides between the patterns: 4
+
+Find 143:
+Pattern_1 (GATG) found at index 27616042
+Pattern_2 (AGATAA) found at index 27616050
+Number of nucleotides between the patterns: 4
+
+Find 144:
+Pattern_1 (GATG) found at index 27621232
+Pattern_2 (AGATAA) found at index 27621240
+Number of nucleotides between the patterns: 4
+
+Find 145:
+Pattern_1 (GATG) found at index 27626317
+Pattern_2 (AGATAA) found at index 27626325
+Number of nucleotides between the patterns: 4
+
+Find 146:
+Pattern_1 (GATG) found at index 27631249
+Pattern_2 (AGATAA) found at index 27631257
+Number of nucleotides between the patterns: 4
+
+Find 147:
+Pattern_1 (GATG) found at index 27636088
+Pattern_2 (AGATAA) found at index 27636096
+Number of nucleotides between the patterns: 4
+
+Find 148:
+Pattern_1 (GATG) found at index 27641389
+Pattern_2 (AGATAA) found at index 27641397
+Number of nucleotides between the patterns: 4
+
+Find 149:
+Pattern_1 (GATG) found at index 27646588
+Pattern_2 (AGATAA) found at index 27646596
+Number of nucleotides between the patterns: 4
+
+Find 150:
+Pattern_1 (GATG) found at index 27651760
+Pattern_2 (AGATAA) found at index 27651768
+Number of nucleotides between the patterns: 4
+
+Find 151:
+Pattern_1 (GATG) found at index 27657043
+Pattern_2 (AGATAA) found at index 27657051
+Number of nucleotides between the patterns: 4
+
+Find 152:
+Pattern_1 (GATG) found at index 27662299
+Pattern_2 (AGATAA) found at index 27662307
+Number of nucleotides between the patterns: 4
+
+Find 153:
+Pattern_1 (GATG) found at index 27667480
+Pattern_2 (AGATAA) found at index 27667488
+Number of nucleotides between the patterns: 4
+
+Find 154:
+Pattern_1 (GATG) found at index 27672754
+Pattern_2 (AGATAA) found at index 27672762
+Number of nucleotides between the patterns: 4
+
+Find 155:
+Pattern_1 (GATG) found at index 27677935
+Pattern_2 (AGATAA) found at index 27677943
+Number of nucleotides between the patterns: 4
+
+Find 156:
+Pattern_1 (GATG) found at index 27683014
+Pattern_2 (AGATAA) found at index 27683022
+Number of nucleotides between the patterns: 4
+
+Find 157:
+Pattern_1 (GATG) found at index 27688189
+Pattern_2 (AGATAA) found at index 27688197
+Number of nucleotides between the patterns: 4
+
+Find 158:
+Pattern_1 (GATG) found at index 27693337
+Pattern_2 (AGATAA) found at index 27693345
+Number of nucleotides between the patterns: 4
+
+Find 159:
+Pattern_1 (GATG) found at index 27698515
+Pattern_2 (AGATAA) found at index 27698523
+Number of nucleotides between the patterns: 4
+
+Find 160:
+Pattern_1 (GATG) found at index 27703789
+Pattern_2 (AGATAA) found at index 27703797
+Number of nucleotides between the patterns: 4
+
+Find 161:
+Pattern_1 (GATG) found at index 27708970
+Pattern_2 (AGATAA) found at index 27708978
+Number of nucleotides between the patterns: 4
+
+Find 162:
+Pattern_1 (GATG) found at index 27713908
+Pattern_2 (AGATAA) found at index 27713916
+Number of nucleotides between the patterns: 4
+
+Find 163:
+Pattern_1 (GATG) found at index 27719125
+Pattern_2 (AGATAA) found at index 27719133
+Number of nucleotides between the patterns: 4
+
+Find 164:
+Pattern_1 (GATG) found at index 27723973
+Pattern_2 (AGATAA) found at index 27723981
+Number of nucleotides between the patterns: 4
+
+Find 165:
+Pattern_1 (GATG) found at index 27728728
+Pattern_2 (AGATAA) found at index 27728736
+Number of nucleotides between the patterns: 4
+
+Find 166:
+Pattern_1 (GATG) found at index 27733729
+Pattern_2 (AGATAA) found at index 27733737
+Number of nucleotides between the patterns: 4
+
+Find 167:
+Pattern_1 (GATG) found at index 27738607
+Pattern_2 (AGATAA) found at index 27738615
+Number of nucleotides between the patterns: 4
+
+Find 168:
+Pattern_1 (GATG) found at index 28162895
+Pattern_2 (AGATAA) found at index 28162903
+Number of nucleotides between the patterns: 4
+
+Find 169:
+Pattern_1 (GATG) found at index 28168960
+Pattern_2 (TGATAG) found at index 28168968
+Number of nucleotides between the patterns: 4
+
+Find 170:
+Pattern_1 (GATG) found at index 28171483
+Pattern_2 (TGATAG) found at index 28171491
+Number of nucleotides between the patterns: 4
+
+Find 171:
+Pattern_1 (GATG) found at index 28173643
+Pattern_2 (TGATAG) found at index 28173651
+Number of nucleotides between the patterns: 4
+
+Find 172:
+Pattern_1 (GATG) found at index 29122918
+Pattern_2 (TGATAA) found at index 29122926
+Number of nucleotides between the patterns: 4
+
+Find 173:
+Pattern_1 (GATG) found at index 29124358
+Pattern_2 (TGATAA) found at index 29124366
+Number of nucleotides between the patterns: 4
+
+Find 174:
+Pattern_1 (GATG) found at index 29125789
+Pattern_2 (TGATAA) found at index 29125797
+Number of nucleotides between the patterns: 4
+
+Find 175:
+Pattern_1 (GATG) found at index 29127220
+Pattern_2 (TGATAA) found at index 29127228
+Number of nucleotides between the patterns: 4
+
+Find 176:
+Pattern_1 (GATG) found at index 30129544
+Pattern_2 (TGATAA) found at index 30129552
+Number of nucleotides between the patterns: 4
+
+Find 177:
+Pattern_1 (GATG) found at index 30133782
+Pattern_2 (AGATAG) found at index 30133790
+Number of nucleotides between the patterns: 4
+
+Find 178:
+Pattern_1 (GATG) found at index 30358346
+Pattern_2 (AGATAA) found at index 30358354
+Number of nucleotides between the patterns: 4
+
+Find 179:
+Pattern_1 (GATG) found at index 31489933
+Pattern_2 (AGATAA) found at index 31489941
+Number of nucleotides between the patterns: 4
+
+Find 180:
+Pattern_1 (GATG) found at index 32228749
+Pattern_2 (TGATAG) found at index 32228757
+Number of nucleotides between the patterns: 4
+
+Find 181:
+Pattern_1 (GATG) found at index 32543503
+Pattern_2 (AGATAA) found at index 32543511
+Number of nucleotides between the patterns: 4
+
+Find 182:
+Pattern_1 (GATG) found at index 32762821
+Pattern_2 (TGATAA) found at index 32762829
+Number of nucleotides between the patterns: 4
+
+Find 183:
+Pattern_1 (GATG) found at index 33087642
+Pattern_2 (AGATAA) found at index 33087650
+Number of nucleotides between the patterns: 4
+
+Find 184:
+Pattern_1 (GATG) found at index 33090063
+Pattern_2 (AGATAA) found at index 33090071
+Number of nucleotides between the patterns: 4
+
+Find 185:
+Pattern_1 (GATG) found at index 33214524
+Pattern_2 (TGATAG) found at index 33214532
+Number of nucleotides between the patterns: 4
+
+Find 186:
+Pattern_1 (GATG) found at index 33215637
+Pattern_2 (TGATAG) found at index 33215645
+Number of nucleotides between the patterns: 4
+
+Find 187:
+Pattern_1 (GATG) found at index 33484992
+Pattern_2 (AGATAA) found at index 33485000
+Number of nucleotides between the patterns: 4
+
+Find 188:
+Pattern_1 (GATG) found at index 33489150
+Pattern_2 (AGATAA) found at index 33489158
+Number of nucleotides between the patterns: 4
+
+Find 189:
+Pattern_1 (GATG) found at index 33493308
+Pattern_2 (AGATAA) found at index 33493316
+Number of nucleotides between the patterns: 4
+
+Find 190:
+Pattern_1 (GATG) found at index 33497466
+Pattern_2 (AGATAA) found at index 33497474
+Number of nucleotides between the patterns: 4
+
+Find 191:
+Pattern_1 (GATG) found at index 33677111
+Pattern_2 (TGATAA) found at index 33677119
+Number of nucleotides between the patterns: 4
+
+Find 192:
+Pattern_1 (GATG) found at index 34393206
+Pattern_2 (AGATAG) found at index 34393214
+Number of nucleotides between the patterns: 4
+
+Find 193:
+Pattern_1 (GATG) found at index 34398258
+Pattern_2 (AGATAG) found at index 34398266
+Number of nucleotides between the patterns: 4
+
+Find 194:
+Pattern_1 (GATG) found at index 34404099
+Pattern_2 (AGATAG) found at index 34404107
+Number of nucleotides between the patterns: 4
+
+Find 195:
+Pattern_1 (GATG) found at index 34409802
+Pattern_2 (AGATAG) found at index 34409810
+Number of nucleotides between the patterns: 4
+
+Find 196:
+Pattern_1 (GATG) found at index 34415400
+Pattern_2 (AGATAG) found at index 34415408
+Number of nucleotides between the patterns: 4
+
+Find 197:
+Pattern_1 (GATG) found at index 34421112
+Pattern_2 (AGATAG) found at index 34421120
+Number of nucleotides between the patterns: 4
+
+Find 198:
+Pattern_1 (GATG) found at index 34426581
+Pattern_2 (AGATAG) found at index 34426589
+Number of nucleotides between the patterns: 4
+
+Find 199:
+Pattern_1 (GATG) found at index 34432050
+Pattern_2 (AGATAG) found at index 34432058
+Number of nucleotides between the patterns: 4
+
+Find 200:
+Pattern_1 (GATG) found at index 34437798
+Pattern_2 (AGATAG) found at index 34437806
+Number of nucleotides between the patterns: 4
+
+Find 201:
+Pattern_1 (GATG) found at index 34443360
+Pattern_2 (AGATAG) found at index 34443368
+Number of nucleotides between the patterns: 4
+
+Find 202:
+Pattern_1 (GATG) found at index 34650862
+Pattern_2 (TGATAA) found at index 34650870
+Number of nucleotides between the patterns: 4
+
+Find 203:
+Pattern_1 (GATG) found at index 34749504
+Pattern_2 (AGATAG) found at index 34749512
+Number of nucleotides between the patterns: 4
+
+Find 204:
+Pattern_1 (GATG) found at index 35935770
+Pattern_2 (TGATAG) found at index 35935778
+Number of nucleotides between the patterns: 4
+
+Find 205:
+Pattern_1 (GATG) found at index 37561593
+Pattern_2 (AGATAA) found at index 37561601
+Number of nucleotides between the patterns: 4
+
+Find 206:
+Pattern_1 (GATG) found at index 37610695
+Pattern_2 (AGATAG) found at index 37610703
+Number of nucleotides between the patterns: 4
+
+Find 207:
+Pattern_1 (GATG) found at index 37891068
+Pattern_2 (AGATAA) found at index 37891076
+Number of nucleotides between the patterns: 4
+
+Find 208:
+Pattern_1 (GATG) found at index 38084711
+Pattern_2 (TGATAA) found at index 38084719
+Number of nucleotides between the patterns: 4
+
+Find 209:
+Pattern_1 (GATG) found at index 38956634
+Pattern_2 (AGATAA) found at index 38956642
+Number of nucleotides between the patterns: 4
+
+Find 210:
+Pattern_1 (GATG) found at index 39831961
+Pattern_2 (AGATAA) found at index 39831969
+Number of nucleotides between the patterns: 4
+
+Find 211:
+Pattern_1 (GATG) found at index 39842177
+Pattern_2 (AGATAA) found at index 39842185
+Number of nucleotides between the patterns: 4
+
+Find 212:
+Pattern_1 (GATG) found at index 40089455
+Pattern_2 (TGATAA) found at index 40089463
+Number of nucleotides between the patterns: 4
+
+Find 213:
+Pattern_1 (GATG) found at index 40090634
+Pattern_2 (TGATAA) found at index 40090642
+Number of nucleotides between the patterns: 4
+
+Find 214:
+Pattern_1 (GATG) found at index 40091732
+Pattern_2 (TGATAA) found at index 40091740
+Number of nucleotides between the patterns: 4
+
+Find 215:
+Pattern_1 (GATG) found at index 40092842
+Pattern_2 (TGATAA) found at index 40092850
+Number of nucleotides between the patterns: 4
+
+Find 216:
+Pattern_1 (GATG) found at index 40311493
+Pattern_2 (TGATAA) found at index 40311501
+Number of nucleotides between the patterns: 4
+
+Find 217:
+Pattern_1 (GATG) found at index 40568190
+Pattern_2 (AGATAG) found at index 40568198
+Number of nucleotides between the patterns: 4
+
+Find 218:
+Pattern_1 (GATG) found at index 40569861
+Pattern_2 (AGATAG) found at index 40569869
+Number of nucleotides between the patterns: 4
+
+Find 219:
+Pattern_1 (GATG) found at index 41153409
+Pattern_2 (TGATAA) found at index 41153417
+Number of nucleotides between the patterns: 4
+
+Find 220:
+Pattern_1 (GATG) found at index 41268326
+Pattern_2 (TGATAA) found at index 41268334
+Number of nucleotides between the patterns: 4
+
+Find 221:
+Pattern_1 (GATG) found at index 41269604
+Pattern_2 (TGATAA) found at index 41269612
+Number of nucleotides between the patterns: 4
+
+Find 222:
+Pattern_1 (GATG) found at index 41270882
+Pattern_2 (TGATAA) found at index 41270890
+Number of nucleotides between the patterns: 4
+
+Find 223:
+Pattern_1 (GATG) found at index 41272160
+Pattern_2 (TGATAA) found at index 41272168
+Number of nucleotides between the patterns: 4
+
+Find 224:
+Pattern_1 (GATG) found at index 41273438
+Pattern_2 (TGATAA) found at index 41273446
+Number of nucleotides between the patterns: 4
+
+Find 225:
+Pattern_1 (GATG) found at index 41274716
+Pattern_2 (TGATAA) found at index 41274724
+Number of nucleotides between the patterns: 4
+
+Find 226:
+Pattern_1 (GATG) found at index 41666749
+Pattern_2 (AGATAA) found at index 41666757
+Number of nucleotides between the patterns: 4
+
+Find 227:
+Pattern_1 (GATG) found at index 42487320
+Pattern_2 (TGATAA) found at index 42487328
+Number of nucleotides between the patterns: 4
+
+Find 228:
+Pattern_1 (GATG) found at index 42526028
+Pattern_2 (AGATAG) found at index 42526036
+Number of nucleotides between the patterns: 4
+
+Find 229:
+Pattern_1 (GATG) found at index 42679314
+Pattern_2 (TGATAG) found at index 42679322
+Number of nucleotides between the patterns: 4
+
+Find 230:
+Pattern_1 (GATG) found at index 42988897
+Pattern_2 (TGATAA) found at index 42988905
+Number of nucleotides between the patterns: 4
+
+Find 231:
+Pattern_1 (GATG) found at index 43352069
+Pattern_2 (AGATAG) found at index 43352077
+Number of nucleotides between the patterns: 4
+
+Find 232:
+Pattern_1 (GATG) found at index 43471984
+Pattern_2 (AGATAA) found at index 43471992
+Number of nucleotides between the patterns: 4
+
+Find 233:
+Pattern_1 (GATG) found at index 43639290
+Pattern_2 (AGATAA) found at index 43639298
+Number of nucleotides between the patterns: 4
+
+Find 234:
+Pattern_1 (GATG) found at index 44173964
+Pattern_2 (AGATAA) found at index 44173972
+Number of nucleotides between the patterns: 4
+
+Find 235:
+Pattern_1 (GATG) found at index 44217270
+Pattern_2 (AGATAA) found at index 44217278
+Number of nucleotides between the patterns: 4
+
+Find 236:
+Pattern_1 (GATG) found at index 44642032
+Pattern_2 (TGATAA) found at index 44642040
+Number of nucleotides between the patterns: 4
+
+Find 237:
+Pattern_1 (GATG) found at index 44980029
+Pattern_2 (TGATAA) found at index 44980037
+Number of nucleotides between the patterns: 4
+
+Find 238:
+Pattern_1 (GATG) found at index 45576396
+Pattern_2 (TGATAA) found at index 45576404
+Number of nucleotides between the patterns: 4
+
+Find 239:
+Pattern_1 (GATG) found at index 45585237
+Pattern_2 (TGATAA) found at index 45585245
+Number of nucleotides between the patterns: 4
+
+Find 240:
+Pattern_1 (GATG) found at index 45593301
+Pattern_2 (TGATAA) found at index 45593309
+Number of nucleotides between the patterns: 4
+
+Find 241:
+Pattern_1 (GATG) found at index 45601431
+Pattern_2 (TGATAA) found at index 45601439
+Number of nucleotides between the patterns: 4
+
+Find 242:
+Pattern_1 (GATG) found at index 45609495
+Pattern_2 (TGATAA) found at index 45609503
+Number of nucleotides between the patterns: 4
+
+Find 243:
+Pattern_1 (GATG) found at index 45611967
+Pattern_2 (TGATAG) found at index 45611975
+Number of nucleotides between the patterns: 4
+
+Find 244:
+Pattern_1 (GATG) found at index 46223403
+Pattern_2 (AGATAA) found at index 46223411
+Number of nucleotides between the patterns: 4
+
+Find 245:
+Pattern_1 (GATG) found at index 46435506
+Pattern_2 (TGATAA) found at index 46435514
+Number of nucleotides between the patterns: 4
+
+Find 246:
+Pattern_1 (GATG) found at index 46436148
+Pattern_2 (TGATAA) found at index 46436156
+Number of nucleotides between the patterns: 4
+
+Find 247:
+Pattern_1 (GATG) found at index 47360271
+Pattern_2 (TGATAA) found at index 47360279
+Number of nucleotides between the patterns: 4
+
+Find 248:
+Pattern_1 (GATG) found at index 47365407
+Pattern_2 (TGATAA) found at index 47365415
+Number of nucleotides between the patterns: 4
+
+Find 249:
+Pattern_1 (GATG) found at index 47580335
+Pattern_2 (TGATAG) found at index 47580343
+Number of nucleotides between the patterns: 4
+
+Find 250:
+Pattern_1 (GATG) found at index 47581364
+Pattern_2 (TGATAG) found at index 47581372
+Number of nucleotides between the patterns: 4
+
+Find 251:
+Pattern_1 (GATG) found at index 47613877
+Pattern_2 (TGATAG) found at index 47613885
+Number of nucleotides between the patterns: 4
+
+Find 252:
+Pattern_1 (GATG) found at index 47616970
+Pattern_2 (TGATAG) found at index 47616978
+Number of nucleotides between the patterns: 4
+
+Find 253:
+Pattern_1 (GATG) found at index 47620006
+Pattern_2 (TGATAG) found at index 47620014
+Number of nucleotides between the patterns: 4
+
+Find 254:
+Pattern_1 (GATG) found at index 47622904
+Pattern_2 (TGATAG) found at index 47622912
+Number of nucleotides between the patterns: 4
+
+Find 255:
+Pattern_1 (GATG) found at index 47625745
+Pattern_2 (TGATAG) found at index 47625753
+Number of nucleotides between the patterns: 4
+
+Find 256:
+Pattern_1 (GATG) found at index 47628826
+Pattern_2 (TGATAG) found at index 47628834
+Number of nucleotides between the patterns: 4
+
+Find 257:
+Pattern_1 (GATG) found at index 47656489
+Pattern_2 (AGATAA) found at index 47656497
+Number of nucleotides between the patterns: 4
+
+Find 258:
+Pattern_1 (GATG) found at index 47738553
+Pattern_2 (TGATAG) found at index 47738561
+Number of nucleotides between the patterns: 4
+
