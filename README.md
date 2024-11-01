@@ -1,2 +1,2 @@
 # ProjectGTK
-repository for suplementary material and code 
+repository for supplementary material and code 
