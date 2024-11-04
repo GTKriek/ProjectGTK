@@ -1,5 +1,5 @@
 # ProjectGTK
-repository for supplementary material and code 
+Repository for supplementary material and code.
 
 **Skripts**
 **1. #1(bindingsites).ipynb**
